@@ -1,0 +1,23 @@
+[
+    {
+        "Country": "Georgia",
+        "Capital": [
+            "Tbilisi"
+        ],
+        "Population": 3714000
+    },
+    {
+        "Country": "America",
+        "Capital": [
+            "Pago Pago"
+        ],
+        "Population": 55197
+    },
+    {
+        "Country": "United States",
+        "Capital": [
+            "Washington DC"
+        ],
+        "Population": 300
+    }
+]
